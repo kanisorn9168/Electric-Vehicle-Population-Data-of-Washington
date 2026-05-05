@@ -6,6 +6,12 @@ This project analyzes the Electric Vehicle Population dataset from Washington St
 
 The dashboard was built using Pivot Tables, Pivot Charts, slicers, and calculated fields to allow dynamic exploration by County, City, Brand, Model, and Model Year.
 
+# Dashboard Preview
+
+![Dashboard Preview](images0.png)
+
+The dashboard was designed to provide interactive exploration of EV adoption patterns across Washington State.
+
 ---
 
 # Project Goals
