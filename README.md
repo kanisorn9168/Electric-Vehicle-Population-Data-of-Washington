@@ -146,7 +146,7 @@ The charts were designed to:
 
 ## Step 4 — Dashboard Design 
 
-With Search & Insights Page
+Developed an interactive dashboard with a dedicated Search & Insights page, allowing users to explore EV data in greater detail through dynamic filtering by County, City, Brand, Model, and Year.
 
 <p align="center">
 <img src="image1.png" width="1000">
