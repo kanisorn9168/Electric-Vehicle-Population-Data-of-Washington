@@ -56,7 +56,7 @@ Recognizing these limitations helped avoid misleading analysis.
 
 This show original data
 
-![Dashboard Preview](image-1.png)
+![Dashboard Preview](images/image-1.png)
 
 Several cleaning and preparation steps were performed before analysis:
 
