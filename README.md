@@ -52,6 +52,8 @@ Recognizing these limitations helped avoid misleading analysis.
 
 ## 2. Data Cleaning Decisions
 
+![Dashboard Preview](image.png)
+
 Several cleaning and preparation steps were performed before analysis:
 
 ### Handling Missing Electric Range
