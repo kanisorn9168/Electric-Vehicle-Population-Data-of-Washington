@@ -86,6 +86,7 @@ These fields helped support segmentation, filtering, and more accurate compariso
 
 ## Step 1 — Data Preparation
 
+Data after cleaning
 ![Dashboard Preview](image.png)
 
 * Imported CSV dataset into Excel
