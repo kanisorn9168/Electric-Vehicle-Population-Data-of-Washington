@@ -9,7 +9,7 @@ The dashboard was built using Pivot Tables, Pivot Charts, slicers, and calculate
 # Dashboard Preview
 
 <p align="center">
-<img src="(PNG/image0.png)" width="1000">
+<img src="./PNG/image0.png" width="1000">
 </p>
 
 The dashboard was designed to provide interactive exploration of EV adoption patterns across Washington State.
@@ -149,7 +149,7 @@ The charts were designed to:
 Developed an interactive dashboard with a dedicated Search & Insights page, allowing users to explore EV data in greater detail through dynamic filtering by County, City, Brand, Model, and Year.
 
 <p align="center">
-<img src="image1.png" width="1000">
+<img src="./PNG/image1.png" width="1000">
 </p>
 
 The dashboard layout was organized into sections:
