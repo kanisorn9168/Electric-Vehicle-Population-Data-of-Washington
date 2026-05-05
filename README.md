@@ -8,7 +8,7 @@ The dashboard was built using Pivot Tables, Pivot Charts, slicers, and calculate
 
 # Dashboard Preview
 
-<img src="image0.png" width="800">
+<img src="image0.png" width="1000">
 
 The dashboard was designed to provide interactive exploration of EV adoption patterns across Washington State.
 
