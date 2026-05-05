@@ -149,7 +149,7 @@ The charts were designed to:
 Developed an interactive dashboard with a dedicated Search & Insights page, allowing users to explore EV data in greater detail through dynamic filtering by County, City, Brand, Model, and Year.
 
 <p align="center">
-<img src="./PNG/Search.png" width="1000">
+<img src="./Image/Search.png" width="1000">
 </p>
 
 The dashboard layout was organized into sections:
