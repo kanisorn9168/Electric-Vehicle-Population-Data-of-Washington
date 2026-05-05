@@ -52,7 +52,7 @@ Recognizing these limitations helped avoid misleading analysis.
 
 ## 2. Data Cleaning Decisions
 
-![Dashboard Preview](image.png)
+![Dashboard Preview](image-1.png)
 
 Several cleaning and preparation steps were performed before analysis:
 
@@ -83,6 +83,8 @@ These fields helped support segmentation, filtering, and more accurate compariso
 # Analysis Workflow
 
 ## Step 1 — Data Preparation
+
+![Dashboard Preview](image.png)
 
 * Imported CSV dataset into Excel
 * Converted raw data into an Excel Table
