@@ -149,7 +149,7 @@ The charts were designed to:
 With Search & Insights Page
 
 <p align="center">
-<img src="image0.png" width="1000">
+<img src="image1.png" width="1000">
 </p>
 
 The dashboard layout was organized into sections:
