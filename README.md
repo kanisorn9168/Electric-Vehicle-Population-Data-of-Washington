@@ -90,7 +90,7 @@ These fields helped support segmentation, filtering, and more accurate compariso
 
 Data after cleaning
 
-![Dashboard Preview](Image/0.Raw_Data.png)
+![Dashboard Preview](Image/0.RawData.png)
 
 * Imported CSV dataset into Excel
 * Converted raw data into an Excel Table
